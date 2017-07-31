@@ -54,6 +54,15 @@
 	float: left
 }
 
+.contactInfo
+{
+	height: 400px;
+	width: 45%;
+	border: 1px solid blue;
+	background-color: white;
+	margin-top: 150px;
+	float: right;
+}
 /*.mainpic {
 	float: left;
 }*/
