@@ -1,0 +1,59 @@
+/*body {
+	background-image: url('images/background-image.jpg');
+}*/
+
+.picofMe
+{
+	height: 200px;
+	width: 200px;
+	float:left;
+}
+
+.mainDiv 
+{
+	height: 200px;
+	width: 100%;
+	border: 1px solid black;
+	text-align: center;
+	font-size: 25px;
+	color: white;
+	background-image: url('images/background-image.jpg');
+}
+
+.mainTextInfo 
+{
+	font-size: 16px;
+}
+
+.aboutMe 
+{
+	height: 400px;
+	width: 50%;
+	border: 1px solid black;
+	background-color: white;
+	float: left;
+}
+
+.educationInfo 
+{
+	height: 400px;
+	width: 45%;
+	border: 1px solid blue;
+	background-color: white;
+	margin-top: 150px;
+	float: right;
+}
+
+.projectsInfo
+{
+	height: 400px;
+	width: 50%;
+	border: 1px solid orange;
+	background-color: white;
+	margin-top: 150px;
+	float: left
+}
+
+/*.mainpic {
+	float: left;
+}*/
